@@ -2,7 +2,8 @@
 
 A classic Breakout arcade game built with Python Turtle graphics. Break all the bricks with the ball while keeping it in play with your paddle!
 
-![Breakout Game Screenshot](game_screenshot.png) *(You can add a screenshot later)*
+![image](https://github.com/user-attachments/assets/e3445166-a5e1-45a9-840d-ad266e7f48cf)
+
 
 ## 🚀 How to Run
 1. Make sure you have Python installed (Python 3.6 or higher)
